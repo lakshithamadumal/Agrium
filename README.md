@@ -29,7 +29,7 @@ Agrium is a modern organic products website built using **HTML, CSS, and JavaScr
 ## 📬 Contact
 For any inquiries or collaborations, feel free to reach out!
 
-🌍 Live Demo: https://agrium.vercel.app/
+🌍 Live Demo: [![Vercel](https://img.shields.io/badge/Live_Demo-000000?logo=vercel&logoColor=white)](https://https://agrium.vercel.app/)
 
 📧 Email: mandujayaweera2003@gmail.com
 
